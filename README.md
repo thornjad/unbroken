@@ -27,15 +27,12 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 How To Install:
 
-1. Download (https://www.gnome-look.org/p/1167049)
+1. Download
 
-1a-. Extract to /usr/share/themes
+2.  Extract to /usr/share/themes
 or ~/.themes (create it (in your home folder) if necessary);
 
-2. Alternatively click on the install button next to the theme
-(follow instructions by clicking the question mark next to the install button)
-
-3. Change via distribution specific tool.
+3. Change via distribution specific tweak tool.
 
 
 **Note:** If your distribution doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
