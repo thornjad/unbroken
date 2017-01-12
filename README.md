@@ -90,7 +90,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## Bugs
-bug page available soon.
+Bugs should be repoted [here]() on the 
 
 ## License
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
