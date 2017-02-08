@@ -18,6 +18,8 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 ## Installation
 
+Latest stable releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
+
 ### Packages
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
