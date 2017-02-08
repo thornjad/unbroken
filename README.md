@@ -18,7 +18,7 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 ## Installation
 
-Latest stable releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
+Latest stable & beta releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
 
 ### Packages
 
