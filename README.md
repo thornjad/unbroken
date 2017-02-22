@@ -1,8 +1,6 @@
 # Unbroken
 
-OSX-Arc theme collection is a flat light theme collection based on Arc with elements for GTK 3 and GTK 2 based desktop environments like Cinnamon, Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
-
-## OSX-Arc Collection is available in three variants
+Unbroken is a flat light theme based on Arc for GTK 3 based desktop environments like Cinnamon, Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 ##### Unbroken
 
@@ -43,10 +41,9 @@ How To Install:
 
 1. Download
 
-2.  Extract to /usr/share/themes
-or ~/.themes (create it (in your home folder) if necessary);
+2. Extract to /usr/share/themes or ~/.themes (create it (in your home folder) if necessary)
 
-3. Change via distribution specific tweak tool.
+3. Change via distribution specific tweak tool
 
 
 **Note:** If your distribution doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
@@ -62,50 +59,47 @@ For the theme to function properly, install the following
   * `gtk-engines-murrine` (Gentoo)
 
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Unbroken`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `Unbroken`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
+After the installation is complete you can activate the theme from the settings menu, or with `gnome-tweak-tool` or a similar program by selecting `Unbroken` as Window/GTK+ theme and `Unbroken` as Gnome Shell/Cinnamon theme.
 
 ## Uninstall
 
 Run
 
-    sudo rm -rf /usr/share/themes/{Unbroken,OSX-Arc-Darker,OSX-Arc-Shadow}
+```
+sudo rm -rf /usr/share/themes/Unbroken
+```
 
 ## Extras
 
-### Arc Firefox theme
+### Unbroken Firefox theme
 A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
 
-### Arc icon theme
-The Arc icon theme is available at https://github.com/horst3180/arc-icon-theme
+### Unbroken icon theme
+The Unbroken icon theme is available at https://github.com/horst3180/arc-icon-theme
 
 ### Chrome/Chromium theme
-To install the Chrome/Chromium theme go to the Extra folder and drag and drop the arc-theme.crx or arc-dark-theme.crx or arc-darker-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source folder "Unbroken > Extra folder > arc-theme.crx.
+To install the Chrome/Chromium theme go to the Extra folder and drag and drop the unbroken.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source folder Unbroken/extra/Chrome/unbroken.crx.
 
 ### Plank theme
-To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
-Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
-
-### Arc-Dark for Ubuntu Software Center
-The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
+To install the Plank theme, copy the `extra/Unbroken-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
+Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Unbroken-Plank` as the theme.
 
 ## Troubleshooting
 
 If you have Ubuntu with a newer GTK/Gnome version than the one included by default (i.e Ubuntu 14.04 with GTK 3.14 or Ubuntu 15.04 with GTK 3.16, etc.) you have to install the theme manually as described above.
 This is also true for other distros with a different GTK/Gnome version than the one included by default
 
---
+---
 
 If you get artifacts like black or invisible backgrounds under Unity, disable overlay scrollbars with
 
-    gsettings set com.canonical.desktop.interface scrollbar-mode normal
+```
+gsettings set com.canonical.desktop.interface scrollbar-mode normal
+```
 
 
 ## Bugs
-Bugs should be reported [here](https://github.com/LinxGem33/Unbroken/issues) on the Github issues page.
+Bugs should be reported on the [issues page](https://github.com/raindeer44/Unbroken/issues)
 
 ## License
-OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
-
-## Apps Preview
-
-![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
+Unbroken is available under the terms of the MIT license. See `LICENSE` for details.
