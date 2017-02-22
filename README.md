@@ -71,11 +71,11 @@ sudo rm -rf /usr/share/themes/Unbroken
 
 ## Extras
 
-### Unbroken Firefox theme
-A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
+### Firefox theme
+Unbroken looks great with the Arc theme for Firefox, available at [github.com/horst3180/arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme)
 
 ### Unbroken icon theme
-The Unbroken icon theme is available at https://github.com/horst3180/arc-icon-theme
+The Unbroken theme is currently designed to work with the Arc icon theme, available at [github.com/horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme)
 
 ### Chrome/Chromium theme
 To install the Chrome/Chromium theme go to the Extra folder and drag and drop the unbroken.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source folder Unbroken/extra/Chrome/unbroken.crx.
