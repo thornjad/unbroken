@@ -1,30 +1,14 @@
-# The Official OSX-Arc Collection
+# Unbroken
 
-OSX-Arc theme collection is a flat theme collection based on arc with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
+OSX-Arc theme collection is a flat light theme collection based on Arc with elements for GTK 3 and GTK 2 based desktop environments like Cinnamon, Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-## OSX-Arc Collection is available in three variants 
+## OSX-Arc Collection is available in three variants
 
-##### OSX-Arc-White
+##### Unbroken
 
-![A screenshot of the OSX-Arc-White theme](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)
-
-##### OSX-Arc-Darker
-
-![A screenshot of the OSX-Arc-Darker theme](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)
-
-##### OSX-Arc-Shadow
-
-![A screenshot of the OSX-Arc-Shadow theme](https://cn.pling.com/img/4/e/e/e/7aa33dbf66b684e7ca882318e6b400acd1b5.png)
+![A screenshot of the Unbroken theme]()
 
 ## Installation
-
-Latest stable & beta releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
-
-### Packages
-
-Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
-
---
 
 ### Supported Desktop Enviroments
 
@@ -38,16 +22,16 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
   * `Mate` (3.14 or later)
   * `Unity` (7.4 or later)
   * `Xfce`
-  
+
 ### Supported GTK version
-  * `GTK 3.14` 
+  * `GTK 3.14`
   * `GTK 3.16`
-  * `GTK 3.18` 
+  * `GTK 3.18`
   * `GTK 3.20`
   * `GTK 3.22`
-  
-### Supported OS version
-  * `14.04 LTS` 
+
+### Supported Ubuntu OS versions
+  * `14.04 LTS`
   * `16.04 LTS`
   * `16.10`
 
@@ -78,13 +62,13 @@ For the theme to function properly, install the following
   * `gtk-engines-murrine` (Gentoo)
 
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Unbroken`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `Unbroken`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
 
 ## Uninstall
 
 Run
 
-    sudo rm -rf /usr/share/themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
+    sudo rm -rf /usr/share/themes/{Unbroken,OSX-Arc-Darker,OSX-Arc-Shadow}
 
 ## Extras
 
@@ -95,7 +79,7 @@ A theme for Firefox is available at https://github.com/horst3180/arc-firefox-the
 The Arc icon theme is available at https://github.com/horst3180/arc-icon-theme
 
 ### Chrome/Chromium theme
-To install the Chrome/Chromium theme go to the Extra folder and drag and drop the arc-theme.crx or arc-dark-theme.crx or arc-darker-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source folder "OSX-Arc-White > Extra folder > arc-theme.crx.
+To install the Chrome/Chromium theme go to the Extra folder and drag and drop the arc-theme.crx or arc-dark-theme.crx or arc-darker-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source folder "Unbroken > Extra folder > arc-theme.crx.
 
 ### Plank theme
 To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
@@ -117,7 +101,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## Bugs
-Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/LinxGem33/Unbroken/issues) on the Github issues page.
 
 ## License
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.

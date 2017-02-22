@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>OSX-Arc-White</name>
-	<author>horst3180, ManjaroCinnamonFan, LinxGem33</author>
-	<copyright>horst3180</copyright>
+	<name>Arc WhiteOut</name>
+	<author>Raindeer44</author>
+	<copyright>Raindeer44</copyright>
 	<date>2017</date>
-	<description>OSX-Arc-White Metacity theme</description>
+	<description>Arc WhiteOut Metacity theme</description>
 </info>
 
 <!-- meaningfull constants -->
@@ -42,7 +42,7 @@
 	<distance name="right_width" value="0" />
 	<distance name="left_titlebar_edge" value="0"/>
 	<distance name="right_titlebar_edge" value="0"/>
-	<distance name="title_vertical_pad" value="2"/> <!-- 
+	<distance name="title_vertical_pad" value="2"/> <!--
 							This needs to be 1 less then the
 							title_vertical_pad on normal state
 							or you'll have bigger buttons		-->
@@ -132,37 +132,37 @@
 <draw_ops name="close_focused">
 
 	<image filename="close.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="close_focused_pressed">
 
 	<image filename="close-p.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="close_focused_prelight">
 
 	<image filename="close-p.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="close_unfocused">
 
 	<image filename="unfocused.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="close_unfocused_prelight">
 
 	<image filename="close-p.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="close_unfocused_pressed">
 
 	<image filename="close-p.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <!--maximize-->
@@ -175,13 +175,13 @@
 <draw_ops name="maximize_focused_pressed">
 
 	<image filename="maximize-p.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="maximize_focused_prelight">
 
 	<image filename="maximize-p.svg" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="maximize_unfocused">
@@ -193,13 +193,13 @@
 <draw_ops name="maximize_unfocused_prelight">
 
 	<image filename="maximize-p.svg"  x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="maximize_unfocused_pressed">
 
 	<image filename="maximize-p.svg"  x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <!--minimize-->
@@ -212,13 +212,13 @@
 <draw_ops name="minimize_focused_pressed">
 
 	<image filename="min-p.svg"  x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="minimize_focused_prelight">
 
 	<image filename="min-p.svg"  x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="minimize_unfocused">
@@ -230,13 +230,13 @@
 <draw_ops name="minimize_unfocused_prelight">
 
 	<image filename="min-p.svg"  x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 <draw_ops name="minimize_unfocused_pressed">
 
 	<image filename="min-p.svg"  x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	
+
 </draw_ops>
 
 
