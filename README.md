@@ -103,3 +103,5 @@ Bugs should be reported on the [issues page](https://github.com/raindeer44/Unbro
 
 ## License
 Unbroken is available under the terms of the MIT license. See `LICENSE` for details.
+
+Unbroken is based on [OSX White Theme by LinxGem33](https://github.com/LinxGem33/OSX-Arc-White)
