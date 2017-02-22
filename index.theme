@@ -6,7 +6,6 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Unbroken
-MetacityTheme=Unbroken
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=close,maximize,minimize
