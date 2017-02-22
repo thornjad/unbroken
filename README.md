@@ -4,7 +4,7 @@ Unbroken is a flat light theme based on Arc for the Cinnamon desktop environment
 
 ##### Unbroken
 
-![A screenshot of the Unbroken theme]()
+![A screenshot of the Unbroken theme](https://raw.githubusercontent.com/Raindeer44/unbroken/master/assets/img/preview.png)
 
 ## Installation
 
